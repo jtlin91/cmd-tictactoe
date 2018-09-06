@@ -1,0 +1,23 @@
+{
+  "name": "cmd-tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe =============== Make a command line tic-tac-toe game from scratch for two players.  Expected features =============== * Minimal UI that redraws the board and makes clear whose turn it is, each turn. * Players can submit moves (assume, admittedly unrealistically, that both players are sitting at the same keyboard). * Win detection - detect and display who won",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtlin91/cmd-tictactoe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtlin91/cmd-tictactoe/issues"
+  },
+  "homepage": "https://github.com/jtlin91/cmd-tictactoe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
