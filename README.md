@@ -1,4 +1,4 @@
-# Tic Tac Toe
+## Tic Tac Toe
 Make a command line tic-tac-toe game from scratch for two players. 
 Expected features
 ===============
